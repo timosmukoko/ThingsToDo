@@ -1,0 +1,249 @@
+@charset "utf-8";
+nav {
+	clear: both;
+	background: #FC0;
+	height: 25px;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0px 5px 5px #666666;
+	-webkit-box-shadow: 0px 5px 5px #666666;
+	width: 98%;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+nav ul {
+	display: inline;
+}
+nav a{
+	text-decoration: none;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin-top: 0px;
+	border-radius: 11px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+ul {
+	margin: 0;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	padding-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+li{
+	list-style:none;
+	font-;
+}
+header img{
+	border-top-left-radius: 20px;
+	
+}
+#container {
+	width: 1124px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	background-color: #FFF;
+	border-radius: 20px;
+
+}
+body{
+		background-image:url(../Images/BenagilCave.jpg);
+
+	background-attachment: fixed;
+		background-color:#FFF;
+}
+label {
+	width: 200px;
+	float: left;
+	margin-top: 5px;
+}
+textarea {
+	width: 400px;
+	height: 130px;
+	margin-top: 5px;
+}
+footer{
+	width: 1124px;
+	height: 356px;
+	background-color: #999999;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	}
+#submit  {
+	margin-left: 250px;
+	width: 100px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+}
+fieldset {
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color: #FFFFFF;
+
+}
+main img {
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	border-radius: 20px;
+}
+input {
+	width: 250px;
+	margin-top: 5px;
+	color: #FF9933;
+}
+
+#select {
+	margin-top: 5px;
+}
+
+#required {
+	float: right;
+	color: #999999;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-style: italic;
+	text-align: right;
+	font-size: 14px;
+}
+
+nav a:active {
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-right: 6px;
+	padding-left: 6px;
+	background-color: #FFFF66;
+	color: #000000;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+nav a:hover {
+	padding-top: 5px;
+	background-color: #666666;
+	background-size: 25px 1000px;
+	padding-bottom: 8px;
+	color: #FFFFFF;
+	border-radius: 10px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+#contact {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	color: #000000;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: bold;
+	border-radius: 10px;
+	width: 105px;
+}
+#contact a:hover {
+	background-color: #CCCCCC;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	padding-right: 6px;
+	padding-left: 6px;
+	text-shadow: 0px 0px;
+	border-radius: 10px;
+}
+.thumbnail img{
+	float: left;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border-radius: 20px;
+}
+aside {
+	float: right;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 320px;
+	margin-left: 25px;
+	height: 2600px;
+}
+aside img {
+	width: 75%;
+	float: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+main {
+	margin-left: 20px;
+	text-align: justify;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	height: 2650px;
+	float: none;
+}
+.img {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+h1 {
+	color: #3609B1;
+	width: 100%;
+	height: 50px;
+}
+#bookLagos {
+	height: 500px;
+	background-color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border-right: 5px solid #0099CC;
+	border-bottom: 5px solid #0099CC;
+	border-left: 5px solid #0099CC;
+	border-top: 6px solid #0099CC;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-top: 58px;
+}
+footer p{
+	margin-left: 959px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: small;
+	color: #F4F4F4;
+}
+
+#bookLagos img{
+	width: 33px;
+	height: 29px;
+}
+#bookLagos h3 {
+	color: #FFFFFF;
+	text-align: center;
+}
+#bookLagos header{
+	height: 50px;
+	background-color: #0099CC;
+	border: thick solid #0099CC;
+	border-bottom-right-radius: px;
+	border-bottom-left-radius: px;
+}
+ul li{
+	display: inline;
+}
+.MainTC{
+	height: 1500px;
+
+}
